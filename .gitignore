@@ -1,1 +1,7 @@
+# files
 *.config
+
+# Directories
+pictures/
+results/
+video/
